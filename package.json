@@ -1,0 +1,22 @@
+{
+  "name": "react-three-dee-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/molebox/react-three-dee-practice.git",
+  "author": "HAINES-DESKTOP\\richa <richardkhaines@hotmail.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "z": "gatsby clean && gatsby develop"
+  },
+  "dependencies": {
+    "drei": "^1.5.7",
+    "gatsby": "^2.24.67",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-three-fiber": "^5.0.3",
+    "three": "^0.121.1"
+  }
+}
